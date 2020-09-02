@@ -20,7 +20,7 @@ data.to_csv("output.csv")
 # Changes csv format
 df = pd.read_csv("output.csv", parse_dates=["date"], index_col="date")
 
-# Resamples data, changes interval specified to whatever time period you want (for example, 3 minutes is 3T, 30 seconds is 30s, 1 hour is 1H)
+# Resamples data, changes interval specified to whatever time period you want (for example, 3 minutes is 3T, 30 seconds is 30S, 1 hour is 1H)
 # Gaps in data are due to Alpha Vantage API missing some values
 resample_interval = "3T"
 
