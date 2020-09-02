@@ -1,7 +1,7 @@
 # StockDataResampler
 
 ### Overview:
-Stock Data Resampler is a **Python** program that resamples an instruments minute by minute candle stick data (opening, closing price, ) to whatever interval you want, creating new candlesticks for those intervals using the prior data. It recieves a stocks data using the **Alpha Vantage API**, and resamples data using the **Pandas** and **Numpy** packages for Python.
+Stock Data Resampler is a **Python** script that resamples an instruments minute by minute candle stick data (opening, closing price, ) to whatever interval you want, creating new candlesticks for those intervals using the prior data. It recieves a stocks data using the **Alpha Vantage API**, and resamples data using the **Pandas** and **Numpy** packages for Python.
 
 ### Features:
 * Free and efficient pulling of stock data from **Alpha Vantage**, which is then outputted to a CSV file
