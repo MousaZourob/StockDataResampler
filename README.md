@@ -12,6 +12,6 @@ Stock Data Resampler is a **Python** program that resamples an instruments minut
 ### Demo:
 
 ### Packages used:
-**Pandas:** https://github.com/pandas-dev/pandas
-**Alpha Vantage API:** https://github.com/RomelTorres/alpha_vantage
-**Numpy:** https://github.com/numpy/numpy
+* **Pandas:** https://github.com/pandas-dev/pandas
+* **Alpha Vantage API:** https://github.com/RomelTorres/alpha_vantage
+* **Numpy:** https://github.com/numpy/numpy
