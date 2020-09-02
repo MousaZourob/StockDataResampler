@@ -1,1 +1,1 @@
-# StockStreamer
+# StockDataResampler
