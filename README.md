@@ -11,8 +11,8 @@ Stock Data Resampler is a **Python** program that resamples an instruments minut
 
 ### Demo:
 **Minute by minute data resampled to 3 minute candle sticks**
-![d1](https://user-images.githubusercontent.com/66835262/92043675-7c7ab200-ed4a-11ea-98af-79d5ea7dd8af.png)
-![d2](https://user-images.githubusercontent.com/66835262/92043721-97e5bd00-ed4a-11ea-93d3-77ef8fd044aa.png)
+![d1](https://user-images.githubusercontent.com/66835262/92043859-f57a0980-ed4a-11ea-89ed-b7b8a3757b0d.png)
+![d2](https://user-images.githubusercontent.com/66835262/92043912-12aed800-ed4b-11ea-8709-c5fb25d1e7d6.png)
 
 ### Packages used:
 * **Pandas:** https://github.com/pandas-dev/pandas
