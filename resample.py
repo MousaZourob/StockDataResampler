@@ -1,8 +1,7 @@
 # Download the alpha-vantage API (pip install alpha-vantage), pandas (pip install pandas), and numpy (pip install numpy) packages
 from alpha_vantage.timeseries import TimeSeries
-import time
+import time, os
 import pandas as pd
-import os
 import numpy as np
 
 # Get your alpha vantage API key from Alpha Vantage website then click get free API key
