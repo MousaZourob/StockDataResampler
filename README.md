@@ -10,6 +10,7 @@ Stock Data Resampler is a **Python** program that resamples an instruments minut
 * Correctly sorted candle sticks using **Numpy** showing proper closing, opening, high, low, and volume values
 
 ### Demo:
+**Minute by minute data resampled to 3 minute candle sticks**
 
 ### Packages used:
 * **Pandas:** https://github.com/pandas-dev/pandas
