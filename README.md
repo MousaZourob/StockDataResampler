@@ -14,7 +14,7 @@ Stock Data Resampler is a **Python** script that resamples an instruments minute
 ![d1](https://user-images.githubusercontent.com/66835262/92043859-f57a0980-ed4a-11ea-89ed-b7b8a3757b0d.png)
 ![d2](https://user-images.githubusercontent.com/66835262/92043912-12aed800-ed4b-11ea-8709-c5fb25d1e7d6.png)
 
-### Packages used:
+### Resources used:
 * **Pandas:** https://github.com/pandas-dev/pandas
 * **Alpha Vantage API:** https://github.com/RomelTorres/alpha_vantage
 * **Numpy:** https://github.com/numpy/numpy
